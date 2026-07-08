@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@theme {
+  /* Redefine and customize teal to gorgeous violet shades for a premium purple brand aesthetic */
+  --color-teal-50: #f5f3ff;
+  --color-teal-100: #ede9fe;
+  --color-teal-150: #e4e0fe;
+  --color-teal-200: #ddd6fe;
+  --color-teal-250: #c4b5fd;
+  --color-teal-300: #c4b5fd;
+  --color-teal-400: #a78bfa;
+  --color-teal-500: #8b5cf6;
+  --color-teal-600: #7c3aed;
+  --color-teal-650: #702eef;
+  --color-teal-700: #6d28d9;
+  --color-teal-750: #621ecc;
+  --color-teal-800: #5b21b6;
+  --color-teal-850: #52199f;
+  --color-teal-900: #4c1d95;
+  --color-teal-950: #2e1065;
+  --color-teal-980: #1e1b4b;
+
+  /* Redefine emerald to premium vibrant purple/magenta/pink shades for accent matching */
+  --color-emerald-50: #faf5ff;
+  --color-emerald-100: #f3e8ff;
+  --color-emerald-200: #e9d5ff;
+  --color-emerald-300: #d8b4fe;
+  --color-emerald-400: #c084fc;
+  --color-emerald-500: #a855f7;
+  --color-emerald-600: #9333ea;
+  --color-emerald-700: #7e22ce;
+  --color-emerald-800: #6b21a8;
+  --color-emerald-900: #581c87;
+  --color-emerald-950: #3b0764;
+}
